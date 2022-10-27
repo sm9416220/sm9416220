@@ -1,6 +1,6 @@
 ### Hi there, I'm Suhail 👋
 
-<div  align="center" >
+<div>
 <a href="https://github.com/sm9416220"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
 </div>
 
