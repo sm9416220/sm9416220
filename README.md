@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <code><a href="https://www.cplusplus.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 </a></code>
-<code><a href="https://www.cplusplus.com/">
+<code>
   <img alt="suhail" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg">
 </code>
 <code><a href="https://www.python.org/doc/">
@@ -58,15 +58,15 @@ Here are some ideas to get you started:
 <code><a href="https://git-scm.com/docs/gittutorial">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </a></code>
-<code><a href="https://postman.com" target="_blank" rel="noreferrer">
+<code><a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="35" /> 
 </a></code>
 <code><a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" title="Jira" height="35"></img>
-</code>
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" title="Jira" height="35">
+</a></code>
 <code><a href="https://www.eclipse.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/eclipse.png" alt="eclipse logo" width="35"></img>
-</code>
+    <img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/eclipse.png" alt="eclipse logo" width="35">
+</a></code>
 
 
 ## Contact Me &nbsp;&nbsp;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
