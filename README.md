@@ -1,10 +1,8 @@
 ### Hi there, I'm Suhail 👋
 
-<div>
 <a href="https://github.com/sm9416220"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
-</div>
 
-### About me 🤓
+### About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
 <!--
 **sm9416220/sm9416220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
