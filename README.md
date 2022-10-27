@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <code><a href="https://www.cplusplus.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 </a></code>
-<code>
+<code><a href="https://www.cplusplus.com/">
   <img alt="suhail" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg">
 </code>
 <code><a href="https://www.python.org/doc/">
@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 
 ## Front End 
 
-<code><a href="https://www.w3schools.com/html/default.asp">
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a></code>
 
 ## Back End and Database
 
-<code><a href="https://docs.oracle.com/cd/E17952_01/index.html">
+<code><a href="https://www.mysql.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </a></code>
 
@@ -61,9 +61,11 @@ Here are some ideas to get you started:
 <code><a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="35" /> 
 </a></code>
-<code><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" title="Jira" height="35"></img>
+<code><a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" title="Jira" height="35"></img>
 </code>
-<code><img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/eclipse.png" alt="eclipse logo" width="35"></img>
+<code><a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/eclipse.png" alt="eclipse logo" width="35"></img>
 </code>
 
 
