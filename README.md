@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🏢 I am currently working at [Nagarro](https://www.nagarro.com/en) as a **Manual Tester**
 - 🌱 I’m currently learning Data structures and Algorithms
-- 📫 How to reach me: msuhail05444@gmail.com
+- 📫 How to reach me: sm9416220@gmail.com
 - 😄 Pronouns: He/ Him
 - 💬 Ask me about anything, I am happy to help;
 
