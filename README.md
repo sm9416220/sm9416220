@@ -100,3 +100,9 @@ Here are some ideas to get you started:
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sm9416220&theme=tokyonight" />
 </p>
 <br/>
+
+## Contributions Space 🎲
+
+<p align="center">
+    <a href="https://hacktoberfest.com/"><img src="https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png" height="60px"></a>
+</p> 
