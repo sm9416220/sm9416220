@@ -1,11 +1,11 @@
 ### Hi there, I'm Suhail 👋
 
-<img align="right" width="48%" src="https://miro.medium.com/max/1100/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" width="48%" src="https://miro.medium.com/max/1100/1*IRGHmiGsa16stedQvIaZfw.gif" rel="noreferrer" />
 
 
-<a href="https://github.com/sm9416220"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://github.com/sm9416220"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub" rel="noreferrer"></a>
 
-### About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+### About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" rel="noreferrer"/>
 
 <!--
 **sm9416220/sm9416220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/ Him
 - 💬 Ask me about anything, I am happy to help;
 
-## Languages Used &nbsp;<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="25" width="25" />
+## Languages Used &nbsp;<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="25" width="25" rel="noreferrer"/>
 
 <code><a href="https://devdocs.io/c/" rel="noreferrer" title="C">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## Tools and Softwares  &nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 
-<code><a href="https://code.visualstudio.com/docs" rel="noreferrer" title="Visual Studio">
+<code><a href="https://code.visualstudio.com/docs" rel="noreferrer" title="Vs Code">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </a></code>
 <code><a href="https://jupyter.org/documentation" rel="noreferrer" title="Jupyter">
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </a></code>
 
 
-## Contact Me &nbsp;&nbsp;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
+## Contact Me &nbsp;&nbsp;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif" rel="noreferrer">
 
 <!-- Social media icons -->
 <a href="https://www.linkedin.com/in/mohd-suhail-087a62219/"  target="_suhail">
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-## Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
+## Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif" rel="noreferrer">
 <br>
 <p width="100%" align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sm9416220&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
@@ -104,5 +104,5 @@ Here are some ideas to get you started:
 ## Contributions Space 🎲
 
 <p align="center">
-    <a href="https://hacktoberfest.com/"><img src="https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png" height="60px"></a>
+    <a href="https://hacktoberfest.com/" rel="noreferrer"><img src="https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png" height="60px" rel="noreferrer"></a>
 </p> 
