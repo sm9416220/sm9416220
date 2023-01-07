@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 <a href="https://www.cplusplus.com/" rel="noreferrer" title="C++">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 </a>
-  <img alt="suhail" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" rel="noreferrer" title="Embedded-C">
 <a href="https://www.python.org/doc/" rel="noreferrer" title="Python">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </a>
 <a href="https://www.java.com/en/" rel="noreferrer" title="Java">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+</a>
+<a href="https://www.elprocus.com/basics-and-structure-of-embedded-c-program-with-examples-for-beginners/" rel="noreferrer" title="Embedded-C">
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" rel="noreferrer" title="Embedded-C">       
 </a>
 
 ## Front End 
