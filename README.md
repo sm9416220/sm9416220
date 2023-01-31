@@ -95,9 +95,9 @@ Here are some ideas to get you started:
 
 ## Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif" rel="noreferrer">
 <br>
-<p width="100%" align="center">
+<p width="48%" align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sm9416220&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sm9416220&theme=tokyonight" />
+<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=sm9416220&theme=tokyonight" />
 </p>
 <br/>
 
