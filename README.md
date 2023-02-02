@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/114508028/215795592-f24b76de-b125-4f32-8451-2061bf3312b9.png" width="130%" height="350" >
+### Hi there, I'm Suhail 👋
 
 <img align="right" width="48%" src="https://miro.medium.com/max/1100/1*IRGHmiGsa16stedQvIaZfw.gif" rel="noreferrer" />
 
