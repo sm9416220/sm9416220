@@ -70,27 +70,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/Sarossilli/Sarossilli/master/img/eclipse.png" alt="eclipse logo" width="35">
 </a>
 
-
-## Contact Me &nbsp;&nbsp;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif" rel="noreferrer">
-
-<!-- Social media icons -->
-<a href="https://www.linkedin.com/in/mohd-suhail-087a62219/"  target="_suhail">
-  <img align="left" alt="Linkedin Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />
-</a>
-<a href="https://twitter.com/MohdSuh13562246"  target="_suhail">
-  <img align="left" alt="Twitter Icon" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
-</a>
-<a href='https://www.instagram.com/msuhail_malik/'  target="_suhail">
-  <img align="left" alt="Instagram Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />
-</a>
-<a href='https://www.facebook.com/profile.php?id=100025122246781'  target="_suhail">
-  <img align="left" alt="Facebook Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
-</a>
-<a href="https://t.me/@msuhail054"  target="_suhail">
-  <img align="left" alt="Telegram Icon" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
-</a>
-
-<br/>
+<a href="https://github.com/sm9416220"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub" rel="noreferrer"></a>
 
 
 ## Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif" rel="noreferrer">
